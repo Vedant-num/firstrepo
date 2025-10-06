@@ -1,3 +1,3 @@
 # firstrepo
 This is my repo
-Author - Vedant
+Author - Vedant Bhagat
